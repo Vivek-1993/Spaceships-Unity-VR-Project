@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 60d944e54edbab34784cc020213beadf
+timeCreated: 1483475636
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Box005
+    100004: Box011
+    100006: Box016
+    100008: Box019
+    100010: Box020
+    100012: Cylinder011
+    100014: Cylinder012
+    100016: Cylinder013
+    100018: Cylinder014
+    100020: Cylinder015
+    100022: Cylinder016
+    100024: Cylinder017
+    100026: Cylinder018
+    100028: Cylinder019
+    100030: Cylinder020
+    100032: Cylinder021
+    100034: DashBoard
+    100036: Front
+    100038: Front Window
+    100040: Left Window
+    100042: Left Wing
+    100044: Left Wing001
+    100046: Right Window
+    100048: //RootNode
+    100050: SpeedLever
+    100052: Speedometer
+    100054: SpeedometerPointer
+    100056: StartEngineButton
+    100058: Steering
+    100060: SteeringAnchor
+    100062: SteeringLeftButton
+    100064: SteeringRightButton
+    100066: Tube004
+    100068: Tube005
+    100070: Tube006
+    100072: Tube007
+    100074: Tube008
+    100076: Tube009
+    100078: Tube011
+    100080: Tube012
+    100082: Tube013
+    100084: Tube014
+    100086: Tube015
+    400000: Body
+    400002: Box005
+    400004: Box011
+    400006: Box016
+    400008: Box019
+    400010: Box020
+    400012: Cylinder011
+    400014: Cylinder012
+    400016: Cylinder013
+    400018: Cylinder014
+    400020: Cylinder015
+    400022: Cylinder016
+    400024: Cylinder017
+    400026: Cylinder018
+    400028: Cylinder019
+    400030: Cylinder020
+    400032: Cylinder021
+    400034: DashBoard
+    400036: Front
+    400038: Front Window
+    400040: Left Window
+    400042: Left Wing
+    400044: Left Wing001
+    400046: Right Window
+    400048: //RootNode
+    400050: SpeedLever
+    400052: Speedometer
+    400054: SpeedometerPointer
+    400056: StartEngineButton
+    400058: Steering
+    400060: SteeringAnchor
+    400062: SteeringLeftButton
+    400064: SteeringRightButton
+    400066: Tube004
+    400068: Tube005
+    400070: Tube006
+    400072: Tube007
+    400074: Tube008
+    400076: Tube009
+    400078: Tube011
+    400080: Tube012
+    400082: Tube013
+    400084: Tube014
+    400086: Tube015
+    2300000: Body
+    2300002: Box005
+    2300004: Box011
+    2300006: Box016
+    2300008: Box019
+    2300010: Box020
+    2300012: Cylinder011
+    2300014: Cylinder012
+    2300016: Cylinder013
+    2300018: Cylinder014
+    2300020: Cylinder015
+    2300022: Cylinder016
+    2300024: Cylinder017
+    2300026: Cylinder018
+    2300028: Cylinder019
+    2300030: Cylinder020
+    2300032: Cylinder021
+    2300034: DashBoard
+    2300036: Front
+    2300038: Front Window
+    2300040: Left Window
+    2300042: Left Wing
+    2300044: Left Wing001
+    2300046: Right Window
+    2300048: SpeedLever
+    2300050: Speedometer
+    2300052: SpeedometerPointer
+    2300054: StartEngineButton
+    2300056: Steering
+    2300058: SteeringAnchor
+    2300060: SteeringLeftButton
+    2300062: SteeringRightButton
+    2300064: Tube004
+    2300066: Tube005
+    2300068: Tube006
+    2300070: Tube007
+    2300072: Tube008
+    2300074: Tube009
+    2300076: Tube011
+    2300078: Tube012
+    2300080: Tube013
+    2300082: Tube014
+    2300084: Tube015
+    3300000: Body
+    3300002: Box005
+    3300004: Box011
+    3300006: Box016
+    3300008: Box019
+    3300010: Box020
+    3300012: Cylinder011
+    3300014: Cylinder012
+    3300016: Cylinder013
+    3300018: Cylinder014
+    3300020: Cylinder015
+    3300022: Cylinder016
+    3300024: Cylinder017
+    3300026: Cylinder018
+    3300028: Cylinder019
+    3300030: Cylinder020
+    3300032: Cylinder021
+    3300034: DashBoard
+    3300036: Front
+    3300038: Front Window
+    3300040: Left Window
+    3300042: Left Wing
+    3300044: Left Wing001
+    3300046: Right Window
+    3300048: SpeedLever
+    3300050: Speedometer
+    3300052: SpeedometerPointer
+    3300054: StartEngineButton
+    3300056: Steering
+    3300058: SteeringAnchor
+    3300060: SteeringLeftButton
+    3300062: SteeringRightButton
+    3300064: Tube004
+    3300066: Tube005
+    3300068: Tube006
+    3300070: Tube007
+    3300072: Tube008
+    3300074: Tube009
+    3300076: Tube011
+    3300078: Tube012
+    3300080: Tube013
+    3300082: Tube014
+    3300084: Tube015
+    4300000: Front
+    4300002: Steering
+    4300004: SteeringLeftButton
+    4300006: SteeringRightButton
+    4300008: SteeringAnchor
+    4300010: DashBoard
+    4300012: Speedometer
+    4300014: SpeedometerPointer
+    4300016: Box005
+    4300018: Front Window
+    4300020: Left Window
+    4300022: Right Window
+    4300024: Box011
+    4300026: Body
+    4300028: Box016
+    4300030: Tube004
+    4300032: Tube005
+    4300034: Tube006
+    4300036: Tube007
+    4300038: Tube008
+    4300040: Tube009
+    4300042: Left Wing
+    4300044: Box019
+    4300046: Tube011
+    4300048: Tube012
+    4300050: Left Wing001
+    4300052: Tube013
+    4300054: Tube014
+    4300056: Tube015
+    4300058: Box020
+    4300060: SpeedLever
+    4300062: StartEngineButton
+    4300064: Cylinder011
+    4300066: Cylinder012
+    4300068: Cylinder013
+    4300070: Cylinder014
+    4300072: Cylinder015
+    4300074: Cylinder016
+    4300076: Cylinder017
+    4300078: Cylinder018
+    4300080: Cylinder019
+    4300082: Cylinder020
+    4300084: Cylinder021
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

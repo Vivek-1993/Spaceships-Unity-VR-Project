@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships.Plugins", "Spaceships.Plugins.csproj", "{66658D52-C893-C42C-B8C0-556BA703D9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships", "Spaceships.csproj", "{2337C679-2FFE-793E-8538-C515ABF73F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships.Editor.Plugins", "Spaceships.Editor.Plugins.csproj", "{3594BE5B-D32C-C00D-E2C7-1055FF0B6207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships.Editor", "Spaceships.Editor.csproj", "{9F1827A6-2F38-4931-923C-73BFBCA33243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66658D52-C893-C42C-B8C0-556BA703D9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66658D52-C893-C42C-B8C0-556BA703D9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66658D52-C893-C42C-B8C0-556BA703D9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66658D52-C893-C42C-B8C0-556BA703D9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2337C679-2FFE-793E-8538-C515ABF73F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2337C679-2FFE-793E-8538-C515ABF73F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2337C679-2FFE-793E-8538-C515ABF73F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2337C679-2FFE-793E-8538-C515ABF73F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3594BE5B-D32C-C00D-E2C7-1055FF0B6207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3594BE5B-D32C-C00D-E2C7-1055FF0B6207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3594BE5B-D32C-C00D-E2C7-1055FF0B6207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3594BE5B-D32C-C00D-E2C7-1055FF0B6207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1827A6-2F38-4931-923C-73BFBCA33243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1827A6-2F38-4931-923C-73BFBCA33243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1827A6-2F38-4931-923C-73BFBCA33243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1827A6-2F38-4931-923C-73BFBCA33243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

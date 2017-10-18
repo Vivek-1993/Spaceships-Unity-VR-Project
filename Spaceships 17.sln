@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships 17.Plugins", "Spaceships 17.Plugins.csproj", "{EE4CB7B6-6FD2-A907-3A47-6F5D25607F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships 17", "Spaceships 17.csproj", "{12FBC8EE-920F-8594-5CC2-75D6112655E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships 17.Editor.Plugins", "Spaceships 17.Editor.Plugins.csproj", "{159BAEA7-D731-187C-BFF8-117F00778836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceships 17.Editor", "Spaceships 17.Editor.csproj", "{FA1EFFF4-0FA9-F6C7-C633-972136F0E6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4CB7B6-6FD2-A907-3A47-6F5D25607F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4CB7B6-6FD2-A907-3A47-6F5D25607F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4CB7B6-6FD2-A907-3A47-6F5D25607F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4CB7B6-6FD2-A907-3A47-6F5D25607F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FBC8EE-920F-8594-5CC2-75D6112655E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FBC8EE-920F-8594-5CC2-75D6112655E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FBC8EE-920F-8594-5CC2-75D6112655E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FBC8EE-920F-8594-5CC2-75D6112655E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159BAEA7-D731-187C-BFF8-117F00778836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159BAEA7-D731-187C-BFF8-117F00778836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159BAEA7-D731-187C-BFF8-117F00778836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159BAEA7-D731-187C-BFF8-117F00778836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1EFFF4-0FA9-F6C7-C633-972136F0E6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1EFFF4-0FA9-F6C7-C633-972136F0E6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1EFFF4-0FA9-F6C7-C633-972136F0E6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1EFFF4-0FA9-F6C7-C633-972136F0E6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
